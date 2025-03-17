@@ -14,3 +14,5 @@ Feel free to download and rate up the mod on the SteamWorkshop if you have the g
  Bugs and Glitches
 One of the stores sometimes have pitch dark color in the walls
 from far but it fixed when you get close to it.
+
+Download the lastest version here → → → https://github.com/Moxie-s-Workshop/The-Sims-3-Map-Mobile-Java-TinyLife-/releases/tag/1.0 ← ← ←
